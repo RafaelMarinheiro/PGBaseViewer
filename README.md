@@ -11,16 +11,12 @@ O código a ser modificado está na pasta ```src/PGBaseViewer```.
 
 PGBaseViewer depende de:
 + CMake
-    - Linux:
-            $ sudo apt-get install qt
-	- Mac:
-            $ brew install qt
+    - Linux: ```$ sudo apt-get install cmake```
+    - Mac: ```brew install cmake```
 + OpenGL (Normalmente já instalado no seu sistema operacional)
 + QT4
-	- Linux:
-		    $ sudo apt-get install qt
-	- Mac:
-		    $ brew install qt
+	- Linux: ```$ sudo apt-get install qt```
+	- Mac: ```$ brew install qt```
 
 ## Compilando
 Dentro da pasta PGBaseViewer rode:
